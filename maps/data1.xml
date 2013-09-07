@@ -1,0 +1,1057 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<markers>
+<marker>
+<label>Annisa</label>
+<lat>40.732475</lat>
+<lng>-74.002676</lng>
+<address>13 Barrow St.</address>
+<cross>b/t 7th Ave. S. and W. 4th St.</cross>
+<phone>(212) 741-6699</phone>
+<site>http://www.annisarestaurant.com/</site>
+<type>American</type>
+<neighborhood>Greenwich Village</neighborhood>
+<notes>Arguably my favorite restaurant in NYC. An unknown treasure trove of culinary delight.  I recommend this place to everyone!</notes>
+<visited>yes</visited>
+</marker>
+<marker>
+<label>Apizz</label>
+<lat>40.721752</lat>
+<lng>-73.99027</lng>
+<address>217 Eldridge St.</address>
+<cross>b/t Rivington and Stanton</cross>
+<phone>(212) 258-9199</phone>
+<site>http://www.apizz.com/</site>
+<type>Italian</type>
+<neighborhood>Lower East Side</neighborhood>
+<notes>Never been.</notes>
+<visited>no</visited>
+</marker>
+<marker>
+<label>Aquagrill</label>
+<lat>40.725294</lat>
+<lng>-74.003769</lng>
+<address>210 Spring St.</address>
+<cross>at 6th Ave.</cross>
+<phone>(212) 274-0505</phone>
+<site>http://www.greenolivemedia.com/aquagrill/menuspage.htm#</site>
+<type>Seafood</type>
+<neighborhood>SoHo</neighborhood>
+<notes>Can't remember if I went.</notes>
+<visited>no</visited>
+</marker>
+<marker>
+<label>Asia de Cuba</label>
+<lat>40.749866</lat>
+<lng>-73.981247</lng>
+<address>237 Madison Ave.</address>
+<cross>b/t 37th and 38th Sts.</cross>
+<phone>(212) 726-7755</phone>
+<site>http://www.chinagrillmanagement.com/adecNY/index.htm</site>
+<type>Asian</type>
+<neighborhood>Murray Hill</neighborhood>
+<notes>User submitted: This is a great restaurant.  There is one in LA as well and it has great food. Little pricey though.
+</notes>
+<visited>no</visited>
+</marker>
+<marker>
+<label>Babbo</label>
+<lat>40.732325</lat>
+<lng>-73.999209</lng>
+<address>110 Waverly Pl.</address>
+<cross>b/t MacDougal and 6th Ave.</cross>
+<phone>(212) 777-0303</phone>
+<site>http://www.babbonyc.com/</site>
+<type>Italian</type>
+<neighborhood>Greenwich Village</neighborhood>
+<notes>None</notes>
+<visited>no</visited>
+</marker>
+<marker>
+<label>Balthazar</label>
+<lat>40.722657</lat>
+<lng>-73.998284</lng>
+<address>80 Spring St.</address>
+<cross>b/t Broadway and Crosby</cross>
+<phone>(212) 965-1414</phone>
+<site>http://balthazarny.com/</site>
+<type>French, Bistro</type>
+<neighborhood>Soho</neighborhood>
+<notes>Great duck breast here and a fine selection of wines.  Pretty loud but then again I did a good job of contributing to the noise.</notes>
+<visited>yes</visited>
+</marker>
+<marker>
+<label>Ben Benson's</label>
+<lat>40.761613</lat>
+<lng>-73.980179</lng>
+<address>123 W. 52nd St.</address>
+<cross>b/t 6th and 7th Aves.</cross>
+<phone>(212) 581-8888</phone>
+<site>http://benbensons.com/</site>
+<type>Steakhouse</type>
+<neighborhood>Midtown - West 50s</neighborhood>
+<notes>Old boys' club to a T. The potatoes were less than exciting but I still enjoyed the steak.</notes>
+<visited>yes</visited>
+</marker>
+<marker>
+<label>BLT Prime</label>
+<lat>40.739345</lat>
+<lng>-73.98608</lng>
+<address>111 E. 22nd St.</address>
+<cross>b/t Park Ave. S. and Lexington</cross>
+<phone>(212) 995-8500</phone>
+<site>http://www.bltprime.com/</site>
+<type>Steakhouse</type>
+<neighborhood>Flatiron</neighborhood>
+<notes>None</notes>
+<visited>no</visited>
+</marker>
+<marker>
+<label>BLT Steak</label>
+<lat>40.761321</lat>
+<lng>-73.970346</lng>
+<address>106 E. 57th St.</address>
+<cross>b/t Park and Lexington Aves.</cross>
+<phone>(212) 752-7470</phone>
+<site>http://bltsteak.com/</site>
+<type>Steakhouse</type>
+<neighborhood>Midtown - East 50s</neighborhood>
+<notes>Will absolutely NEVER go back there. Worst service of all the restaurants I have dined at in NYC - on my birthday no less.</notes>
+<visited>yes</visited>
+</marker>
+<marker>
+<label>Blue Fin</label>
+<lat>40.759376</lat>
+<lng>-73.985178</lng>
+<address>1567 Broadway</address>
+<cross>at 47th St.</cross>
+<phone>(212) 918-1400</phone>
+<site>http://www.brguestrestaurants.com/restaurants/blue_fin/index.php</site>
+<type>Seafood</type>
+<neighborhood>Midtown - West 40s</neighborhood>
+<notes>The W Hotel - Times Square resident restaurant provides good food but nothing to blow you away with.</notes>
+<visited>yes</visited>
+</marker>
+<marker>
+<label>Blue Ribbon Bakery</label>
+<lat>40.729479</lat>
+<lng>-74.003599</lng>
+<address>33 Downing St.</address>
+<cross>at Bedford St.</cross>
+<phone>(212) 337-0404</phone>
+<site>http://www.blueribbonrestaurants.com/bakery_about.html</site>
+<type>American</type>
+<neighborhood>Greenwich Village</neighborhood>
+<notes>None</notes>
+<visited>no</visited>
+</marker>
+<marker>
+<label>Blue Ribbon Sushi</label>
+<lat>40.726049</lat>
+<lng>-74.002561</lng>
+<address>119 Sullivan St.</address>
+<cross>b/t Prince and Spring Sts.</cross>
+<phone>(212) 343-0404</phone>
+<site>http://blueribbonrestaurants.com/sushimanhattan_about.html</site>
+<type>Sushi</type>
+<neighborhood>Soho</neighborhood>
+<notes>None</notes>
+<visited>no</visited>
+</marker>
+<marker>
+<label>Blue Water Grill</label>
+<lat>40.736688</lat>
+<lng>-73.99086</lng>
+<address>31 Union Square W.</address>
+<cross>at 16th St.</cross>
+<phone>(212) 675-9500</phone>
+<site>http://www.brguestrestaurants.com/restaurants/blue_water_grill_new_york/index.php</site>
+<type>Seafood</type>
+<neighborhood>Union Square</neighborhood>
+<notes>Great fish and loved the atmosphere. Friends had the grilled lobster and it was to die for.</notes>
+<visited>yes</visited>
+</marker>
+<marker>
+<label>Bobby Van's Steakhouse</label>
+<lat>40.754434</lat>
+<lng>-73.976391</lng>
+<address>230 Park Ave.</address>
+<cross>at 46th St.</cross>
+<phone>(212) 867-5490</phone>
+<site>http://www.bobbyvans.com/flash/index.html</site>
+<type>Steakhouse</type>
+<neighborhood>Midtown - East 40s</neighborhood>
+<notes>None</notes>
+<visited>no</visited>
+</marker>
+<marker>
+<label>Brasserie LCB</label>
+<lat>40.762349</lat>
+<lng>-73.976879</lng>
+<address>60 W. 55th St.</address>
+<cross>b/t 5th and 6th Aves.</cross>
+<phone>(212) 688-6625</phone>
+<site>http://www.newyorkmetro.com/listings/restaurant/lcb-brasserie/</site>
+<type>French, Brasserie</type>
+<neighborhood>Midtown - West 50s</neighborhood>
+<notes>Slow and long but sometimes that's what dinner is for.</notes>
+<visited>yes</visited>
+</marker>
+<marker>
+<label>Bubby's</label>
+<lat>40.70361</lat>
+<lng>-73.990441</lng>
+<address>1 Main St.</address>
+<cross>b/t Plymouth and Water Sts.</cross>
+<phone>(718) 222-0666</phone>
+<site>http://www.bubbys.com/</site>
+<type>American Traditional</type>
+<neighborhood>DUMBO</neighborhood>
+<notes>Great little/big place in DUMBO that serves up a great breakfast. Most items were eco-friendly.</notes>
+<visited>yes</visited>
+</marker>
+<marker>
+<label>Casa Mono</label>
+<lat>40.735988</lat>
+<lng>-73.987138</lng>
+<address>52 Irving Pl.</address>
+<cross>at 17th St.</cross>
+<phone>(212) 253-2773</phone>
+<site>http://www.newyorkmetro.com/listings/restaurant/casa-mono/index.html</site>
+<type>Catalan</type>
+<neighborhood>Gramercy Park</neighborhood>
+<notes>None</notes>
+<visited>no</visited>
+</marker>
+<marker>
+<label>Chow Bar</label>
+<lat>40.734098</lat>
+<lng>-74.003127</lng>
+<address>230 W. 4th St.</address>
+<cross>at 10th St.</cross>
+<phone>(212) 633-2212</phone>
+<site>http://www.newyorkmetro.com/listings/restaurant/chow-bar/index.html</site>
+<type>Asian</type>
+<neighborhood>Greenwich Village</neighborhood>
+<notes>None</notes>
+<visited>no</visited>
+</marker>
+<marker>
+<label>Craft</label>
+<lat>40.738386</lat>
+<lng>-73.989306</lng>
+<address>43 E. 19th St.</address>
+<cross>b/t Broadway and Park Ave. S.</cross>
+<phone>(212) 780-0880</phone>
+<site>http://craftrestaurant.com/</site>
+<type>American</type>
+<neighborhood>Flatiron</neighborhood>
+<notes>None</notes>
+<visited>no</visited>
+</marker>
+<marker>
+<label>Davidburke and Donatella</label>
+<lat>40.763779</lat>
+<lng>-73.967605</lng>
+<address>133 E. 61st St.</address>
+<cross>b/t Park and Lexington</cross>
+<phone>(212) 813-2121</phone>
+<site>http://www.dbdrestaurant.com/</site>
+<type>American Nouveau</type>
+<neighborhood>Upper East Side</neighborhood>
+<notes>We were packed into a small table that made the evening a little less than ideal.  The food, however, was divine.  Avoid the cheesecake lollipops at all costs. They may look great but they are nothing to write home about.  </notes>
+<visited>yes</visited>
+</marker>
+<marker>
+<label>db Bistro Moderne</label>
+<lat>40.755632</lat>
+<lng>-73.981617</lng>
+<address>55 W. 44th St.</address>
+<cross>b/t 5th and 6th Aves.</cross>
+<phone>(212) 391-2400</phone>
+<site>http://danielnyc.com/dbbistro/</site>
+<type>French, Bistro</type>
+<neighborhood>Midtown - West 40s</neighborhood>
+<notes>None</notes>
+<visited>no</visited>
+</marker>
+<marker>
+<label>Del Frisco's</label>
+<lat>40.758903</lat>
+<lng>-73.981367</lng>
+<address>1221 6th Ave.</address>
+<cross>at 49th St.</cross>
+<phone>(212) 575-5129</phone>
+<site>http://www.delfriscos.com/</site>
+<type>Steakhouse</type>
+<neighborhood>Midtown - West 40s</neighborhood>
+<notes>None</notes>
+<visited>no</visited>
+</marker>
+<marker>
+<label>Dinosaur BBQ</label>
+<lat>40.817851</lat>
+<lng>-73.9576</lng>
+<address>646 131st St.</address>
+<cross>at 12th Ave.</cross>
+<phone>(212) 694-1777</phone>
+<site>http://dinosaurbarbque.com/</site>
+<type>BBQ</type>
+<neighborhood>Harlem</neighborhood>
+<notes>User submitted: Awesome ribs and sides, great beer selection and atmosphere!</notes>
+<visited>no</visited>
+</marker>
+<marker>
+<label>Esperanto</label>
+<lat>40.725801</lat>
+<lng>-73.978135</lng>
+<address>145 Avenue C</address>
+<cross>at 9th St.</cross>
+<phone>(212) 505-6559</phone>
+<site>http://nymag.com/listings/restaurant/esperanto/index.html</site>
+<type>Latin American</type>
+<neighborhood>East Village</neighborhood>
+<notes>Recommended by East Village stalwart Ray Sarola.</notes>
+<visited>no</visited>
+</marker>
+<marker>
+<label>Estiatorio Milos</label>
+<lat>40.763458</lat>
+<lng>-73.978824</lng>
+<address>125 W. 55th St.</address>
+<cross>b/t 6th and 7th Ave.</cross>
+<phone>(212) 245-7400</phone>
+<site>http://milos.ca/en/newyork/index.html</site>
+<type>Greek</type>
+<neighborhood>Midtown - West 50s</neighborhood>
+<notes>FANTASTIC fish and pretty pricey. If you like fresh fish this is the place to go.</notes>
+<visited>yes</visited>
+</marker>
+<marker>
+<label>Fiamma Osteria</label>
+<lat>40.725272</lat>
+<lng>-74.003713</lng>
+<address>206 Spring St.</address>
+<cross>b/t Sullivan and 6th</cross>
+<phone>(212) 653-0100</phone>
+<site>http://brguestrestaurants.com/restaurants/fiamma_new_york/index.php</site>
+<type>Italian</type>
+<neighborhood>Soho</neighborhood>
+<notes>None</notes>
+<visited>no</visited>
+</marker>
+<marker>
+<label>Foodswings</label>
+<lat>40.712939</lat>
+<lng>-73.957321</lng>
+<address>295 Grand St.</address>
+<cross>b/t Havemeyer and Roebeling Sts.</cross>
+<phone>(718) 388-1919</phone>
+<site>http://foodswings.net/</site>
+<type>Vegan</type>
+<neighborhood>Williamsburg</neighborhood>
+<notes>User submitted: Great Vegan fast food in Williamsburg.</notes>
+<visited>no</visited>
+</marker>
+<marker>
+<label>Frankie and Johnnie's</label>
+<lat>40.75893</lat>
+<lng>-73.987399</lng>
+<address>269 W. 45th St.</address>
+<cross>at 8th Ave.</cross>
+<phone>(212) 997-9494</phone>
+<site>http://frankieandjohnnies.com/</site>
+<type>Steakhouse</type>
+<neighborhood>Midtown - West 40s</neighborhood>
+<notes>My favorite little steakhouse in all of Manhattan. Find a nice spot at the 4 person bar and lay into a porterhouse and some nice potatoe pancakes and you will be in heaven.</notes>
+<visited>yes</visited>
+</marker>
+<marker>
+<label>Gramercy Tavern</label>
+<lat>40.738762</lat>
+<lng>-73.989179</lng>
+<address>42 E. 20th St.</address>
+<cross>b/t Broadway and Park</cross>
+<phone>(212) 477-0777</phone>
+<site>http://gramercytavern.com/</site>
+<type>American Traditional</type>
+<neighborhood>Gramercy Park</neighborhood>
+<notes>None</notes>
+<visited>no</visited>
+</marker>
+<marker>
+<label>Haru</label>
+<lat>40.784178</lat>
+<lng>-73.977386</lng>
+<address>433 Amsterdam Ave.</address>
+<cross>b/t 80th and 81st Sts.</cross>
+<phone>(212) 579-5655</phone>
+<site>http://www.harusushi.com/</site>
+<type>Sushi</type>
+<neighborhood>Upper West Side</neighborhood>
+<notes>None</notes>
+<visited>no</visited>
+</marker>
+<marker>
+<label>Haru</label>
+<lat>40.756189</lat>
+<lng>-73.975056</lng>
+<address>280 Park Ave.</address>
+<cross>at 48th St.</cross>
+<phone>(212) 490-9680</phone>
+<site>http://www.harusushi.com/</site>
+<type>Sushi</type>
+<neighborhood>Midtown - East 40s</neighborhood>
+<notes>None</notes>
+<visited>no</visited>
+</marker>
+<marker>
+<label>Hatsuhana</label>
+<lat>40.75703</lat>
+<lng>-73.977116</lng>
+<address>17 E. 48th St.</address>
+<cross>b/t 5th and Madison Aves.</cross>
+<phone>(212) 355-3345</phone>
+<site>http://www.hatsuhana.com/html/index.htm</site>
+<type>Sushi</type>
+<neighborhood>Midtown - East 40s</neighborhood>
+<notes>None</notes>
+<visited>no</visited>
+</marker>
+<marker>
+<label>Hatsuhana</label>
+<lat>40.754643</lat>
+<lng>-73.975449</lng>
+<address>237 Park Ave.</address>
+<cross>at 46th St.</cross>
+<phone>(212) 661-3400</phone>
+<site>http://www.hatsuhana.com/html/index.htm</site>
+<type>Sushi</type>
+<neighborhood>Midtown - East 40s</neighborhood>
+<notes>None</notes>
+<visited>no</visited>
+</marker>
+<marker>
+<label>Hearth</label>
+<lat>40.730032</lat>
+<lng>-73.983197</lng>
+<address>403 E. 12th St.</address>
+<cross>at 1st Ave.</cross>
+<phone>(646) 602-1300</phone>
+<site>http://www.restauranthearth.com/</site>
+<type>Italian</type>
+<neighborhood>Greenwich Village</neighborhood>
+<notes>None</notes>
+<visited>no</visited>
+</marker>
+<marker>
+<label>Hell's Kitchen</label>
+<lat>40.761523</lat>
+<lng>-73.990578</lng>
+<address>679 9th Ave.</address>
+<cross>b/t 46th and 47th Sts.</cross>
+<phone>(212) 977-1588</phone>
+<site>http://www.hellskitchen-nyc.com/</site>
+<type>Cuban</type>
+<neighborhood>Hell's Kitchen</neighborhood>
+<notes>Solid Mexican food with a flair for the nuvo. The margaritas weren't half bad either.</notes>
+<visited>yes</visited>
+</marker>
+<marker>
+<label>House of Brews</label>
+<lat>40.760667</lat>
+<lng>-73.989615</lng>
+<address>363 W. 46th St.</address>
+<cross>b/t 8th and 9th Aves.</cross>
+<phone>(212) 245-0551</phone>
+<site>http://www.houseofbrewsny.com/</site>
+<type>Bar</type>
+<neighborhood>Midtown - West 40s</neighborhood>
+<notes>Good beer on tap that they brew themselves.</notes>
+<visited>yes</visited>
+</marker>
+<marker>
+<label>Hudson Cafeteria</label>
+<lat>40.767952</lat>
+<lng>-73.98405</lng>
+<address>356 W. 58th St.</address>
+<cross>b/t 8th and 9th Aves.</cross>
+<phone>(212) 554-6500</phone>
+<site>http://chinagrillmgt.com/hudson/index.htm</site>
+<type>American Traditional</type>
+<neighborhood>Midtown - West 40s</neighborhood>
+<notes>None</notes>
+<visited>yes</visited>
+</marker>
+<marker>
+<label>Il Mulino</label>
+<lat>40.729773</lat>
+<lng>-73.99907</lng>
+<address>86 W. 3rd St.</address>
+<cross>b/t Sullivan and Thompson Sts.</cross>
+<phone>(212) 673-3783</phone>
+<site>http://www.ilmulinonewyork.com/</site>
+<type>Italian</type>
+<neighborhood>Greenwich Village</neighborhood>
+<notes>The greatest dining experience of my young life. You can't beat this old world estanlishment's service or Italian fare. If you can handle the price you will not be let down.</notes>
+<visited>yes</visited>
+</marker>
+<marker>
+<label>Itzocan Cafe</label>
+<lat>40.72772</lat>
+<lng>-73.984104</lng>
+<address>438 E. 9th St.</address>
+<cross>b/t Ave. A. and 1st Ave.</cross>
+<phone>(212) 677-5856</phone>
+<site>http://www.newyorkmetro.com/listings/restaurant/itzocan-cafe/index.html</site>
+<type>Mexican</type>
+<neighborhood>Greenwich Village</neighborhood>
+<notes>None</notes>
+<visited>no</visited>
+</marker>
+<marker>
+<label>John's of 12th Street</label>
+<lat>40.73142</lat>
+<lng>-73.986023</lng>
+<address>302 E. 12th St.</address>
+<cross>at 2nd Ave.</cross>
+<phone>(212) 475-9531</phone>
+<site>http://nymag.com/listings/restaurant/johns-of-12th-street/index.html</site>
+<type>Italian</type>
+<neighborhood>East Village</neighborhood>
+<notes>Recommended by East Village stalwart Ray Sarola.</notes>
+<visited>no</visited>
+</marker>
+<marker>
+<label>Koi</label>
+<lat>40.7529</lat>
+<lng>-73.983773</lng>
+<address>40 W. 40th St.</address>
+<cross>b/t 5th and 6th Aves.</cross>
+<phone>(212) 921-3330</phone>
+<site>http://koirestaurant.com/</site>
+<type>Sushi</type>
+<neighborhood>Midtown - West 40s</neighborhood>
+<notes>Best sushi in all of Manhattan. The scene is a little much but the food and sake make up for it.</notes>
+<visited>yes</visited>
+</marker>
+<marker>
+<label>Lever house</label>
+<lat>40.759498</lat>
+<lng>-73.972638</lng>
+<address>390 Park Ave.</address>
+<cross>b/t 53rd and 54th Sts.</cross>
+<phone>(212) 888-2700</phone>
+<site>http://www.leverhouse.com/index_flash.html</site>
+<type>American</type>
+<neighborhood>Midtown - East 50s</neighborhood>
+<notes>None</notes>
+<visited>no</visited>
+</marker>
+<marker>
+<label>L'Impero</label>
+<lat>40.74921</lat>
+<lng>-73.970139</lng>
+<address>45 Tudor City Pl.</address>
+<cross>b/t 42nd and 43rd Sts.</cross>
+<phone>(212) 599-5045</phone>
+<site>http://www.limpero.com/</site>
+<type>Italian</type>
+<neighborhood>Midtown - East 40s</neighborhood>
+<notes>None</notes>
+<visited>no</visited>
+</marker>
+<marker>
+<label>Macelleria</label>
+<lat>40.739263</lat>
+<lng>-74.006788</lng>
+<address>48 Ganesvoort St.</address>
+<cross>b/t Greenwich and Washington Sts.</cross>
+<phone>(212) 741-2555</phone>
+<site>http://macelleriarestaurant.com/</site>
+<type>Italian</type>
+<neighborhood>Meatpacking District</neighborhood>
+<notes>None</notes>
+<visited>no</visited>
+</marker>
+<marker>
+<label>Matsuri</label>
+<lat>40.74203</lat>
+<lng>-74.003399</lng>
+<address>369 W. 16th St.</address>
+<cross>at 9th Ave.</cross>
+<phone>(212) 243-6400</phone>
+<site>http://www.themaritimehotel.com/</site>
+<type>Sushi</type>
+<neighborhood>Chelsea</neighborhood>
+<notes>None</notes>
+<visited>no</visited>
+</marker>
+<marker>
+<label>Mo Pitkin's</label>
+<lat>40.723335</lat>
+<lng>-73.985311</lng>
+<address>34 Ave. A</address>
+<cross>b/t Ave. A, b/t 2nd and 3rd</cross>
+<phone>(212) 777-5660</phone>
+<site>http://www.mopitkins.com/MoPitkins_NEW/index.html</site>
+<type>Jewish</type>
+<neighborhood>Greenwich Village</neighborhood>
+<notes>None</notes>
+<visited>no</visited>
+</marker>
+<marker>
+<label>Morimoto</label>
+<lat>40.743125</lat>
+<lng>-74.007261</lng>
+<address>88 10th Ave.</address>
+<cross>at 16th St.</cross>
+<phone>(212) 989-8883</phone>
+<site>http://www.morimotonyc.com/morimoto.html</site>
+<type>Japanese</type>
+<neighborhood>Chelsea</neighborhood>
+<notes>None</notes>
+<visited>no</visited>
+</marker>
+<marker>
+<label>Next Door Nobu</label>
+<lat>40.719478</lat>
+<lng>-74.008855</lng>
+<address>105 Hudson St.</address>
+<cross>at Franklin</cross>
+<phone>(212) 334-4445</phone>
+<site>http://myriadrestaurantgroup.com/nextdoornobu/index.html</site>
+<type>Sushi</type>
+<neighborhood>Tribeca</neighborhood>
+<notes>None</notes>
+<visited>no</visited>
+</marker>
+<marker>
+<label>NOBU</label>
+<lat>40.719478</lat>
+<lng>-74.008855</lng>
+<address>105 Hudson St.</address>
+<cross>at Franklin</cross>
+<phone>(212) 219-0500</phone>
+<site>http://myriadrestaurantgroup.com/nobu/index.html</site>
+<type>Sushi</type>
+<neighborhood>Tribeca</neighborhood>
+<notes>None</notes>
+<visited>no</visited>
+</marker>
+<marker>
+<label>NOBU 57</label>
+<lat>40.763411</lat>
+<lng>-73.975391</lng>
+<address>40 W. 57th St.</address>
+<cross>b/t 5th and 6th Aves.</cross>
+<phone>(212) 757-3000</phone>
+<site>http://myriadrestaurantgroup.com/nobu57/index.html</site>
+<type>Sushi</type>
+<neighborhood>Midtown - West 50s</neighborhood>
+<notes>None</notes>
+<visited>no</visited>
+</marker>
+<marker>
+<label>Palm</label>
+<lat>40.761703</lat>
+<lng>-73.985125</lng>
+<address>250 W. 50th St.</address>
+<cross>b/t Broadway and 8th Ave.</cross>
+<phone>(212) 333-7256</phone>
+<site>http://www.thepalm.com/</site>
+<type>Steakhouse</type>
+<neighborhood>Midtown - West 50s</neighborhood>
+<notes>Solid steaks. Sides were so-so. It's a steakhouse for pete's sake.</notes>
+<visited>yes</visited>
+</marker>
+<marker>
+<label>Pampano</label>
+<lat>40.755186</lat>
+<lng>-73.970783</lng>
+<address>209 E. 49th St.</address>
+<cross>b/t 2nd and 3rd Aves.</cross>
+<phone>(212) 751-4545</phone>
+<site>http://www.modernmexican.com/pampano/</site>
+<type>Mexican</type>
+<neighborhood>Midtown - East 40s</neighborhood>
+<notes>None</notes>
+<visited>no</visited>
+</marker>
+<marker>
+<label>Pastis</label>
+<lat>40.739906</lat>
+<lng>-74.006322</lng>
+<address>9 9th Ave.</address>
+<cross>at 12th St.</cross>
+<phone>(212) 929-4844</phone>
+<site>http://www.pastisny.com/home.html</site>
+<type>French, Bistro</type>
+<neighborhood>Meatpacking District</neighborhood>
+<notes>None</notes>
+<visited>no</visited>
+</marker>
+<marker>
+<label>Pellegrino's</label>
+<lat>40.718558</lat>
+<lng>-73.997483</lng>
+<address>138 Mulberry St.</address>
+<cross>b/t Hester and Grand Sts.</cross>
+<phone>(212) 226-3177</phone>
+<site>http://littleitalynyc.com/pellegrinos/</site>
+<type>Italian</type>
+<neighborhood>Little Italy</neighborhood>
+<notes>None</notes>
+<visited>no</visited>
+</marker>
+<marker>
+<label>Peter Luger</label>
+<lat>40.709959</lat>
+<lng>-73.962404</lng>
+<address>178 Broadway</address>
+<cross>at Driggs Ave.</cross>
+<phone>(718) 387-7400</phone>
+<site>http://www.peterluger.com/</site>
+<type>Steakhouse</type>
+<neighborhood>Williamsburg</neighborhood>
+<notes>None</notes>
+<visited>no</visited>
+</marker>
+<marker>
+<label>Po</label>
+<lat>40.731686</lat>
+<lng>-74.001822</lng>
+<address>31 Cornelia St.</address>
+<cross>b/t Bleecker and 4th Sts.</cross>
+<phone>(212) 645-2189</phone>
+<site>http://www.porestaurant.com/</site>
+<type>Italian</type>
+<neighborhood>Greenwich Village</neighborhood>
+<notes>Great little Italian place in the Village that is small and intimate. Fantastic date place.</notes>
+<visited>yes</visited>
+</marker>
+<marker>
+<label>Provence</label>
+<lat>40.727256</lat>
+<lng>-74.002577</lng>
+<address>38 MacDougal St.</address>
+<cross>b/t Prince and King Sts.</cross>
+<phone>(212) 475-7500</phone>
+<site>http://www.provence-soho.com/</site>
+<type>French, Bistro</type>
+<neighborhood>Soho</neighborhood>
+<notes>None</notes>
+<visited>no</visited>
+</marker>
+<marker>
+<label>Rain</label>
+<lat>40.783851</lat>
+<lng>-73.974347</lng>
+<address>100 W. 82nd St.</address>
+<cross>at Columbus Ave.</cross>
+<phone>(212) 501-0776</phone>
+<site>http://rainrestaurant.com/</site>
+<type>Asian</type>
+<neighborhood>Upper West Side</neighborhood>
+<notes>None</notes>
+<visited>no</visited>
+</marker>
+<marker>
+<label>Roberto's</label>
+<lat>40.853648</lat>
+<lng>-73.888443</lng>
+<address>603 Crescent Ave.</address>
+<cross>at Hughes Ave.</cross>
+<phone>(718) 733-9503</phone>
+<site>http://nymag.com/listings/restaurant/roberto_restaurant/index.html</site>
+<type>Italian</type>
+<neighborhood>Bronx</neighborhood>
+<notes>Great Italian but still fell short of Il Mulino</notes>
+<visited>yes</visited>
+</marker>
+<marker>
+<label>Rocking Horse</label>
+<lat>40.742955</lat>
+<lng>-73.999994</lng>
+<address>182 8th Ave.</address>
+<cross>b/t 19th and 20th Sts.</cross>
+<phone>(212) 463-9511</phone>
+<site>http://www.rockinghorsecafe.com/</site>
+<type>Mexican</type>
+<neighborhood>Chelsea</neighborhood>
+<notes>None</notes>
+<visited>no</visited>
+</marker>
+<marker>
+<label>Rue 57</label>
+<lat>40.763649</lat>
+<lng>-73.975978</lng>
+<address>60 W. 57th St.</address>
+<cross>at 6th Ave.</cross>
+<phone>(212) 307-5656</phone>
+<site>http://rue57.com/site/index.html</site>
+<type>French, Bistro</type>
+<neighborhood>Midtown - West 50s</neighborhood>
+<notes>None</notes>
+<visited>no</visited>
+</marker>
+<marker>
+<label>Slate</label>
+<lat>40.740878</lat>
+<lng>-73.992303</lng>
+<address>54 W. 21st St.</address>
+<cross>b/t 5th and 6th Aves.</cross>
+<phone>(212) 989-0096</phone>
+<site>http://slate-ny.com/</site>
+<type>Bar</type>
+<neighborhood>Flatiron</neighborhood>
+<notes>User submitted: Great place to go with friends or on a date. The upscale lounge feel combined with the  chill pool hall vibe make for a good time. Their menu is also quite good, especially their burger wrap - it's fantastic. And their blondie sundae is heroic.</notes>
+<visited>no</visited>
+</marker>
+<marker>
+<label>Solo</label>
+<lat>40.761184</lat>
+<lng>-73.97338</lng>
+<address>550 Madison Ave.</address>
+<cross>b/t 55th and 56th Sts.</cross>
+<phone>(212) 833-7800</phone>
+<site>http://www.solonyc.com/solo/media/solo.html</site>
+<type>Mediterranean</type>
+<neighborhood>Midtown - East 50s</neighborhood>
+<notes>None</notes>
+<visited>no</visited>
+</marker>
+<marker>
+<label>Son Cubano</label>
+<lat>40.74117</lat>
+<lng>-74.00557</lng>
+<address>405 W. 14th St.</address>
+<cross>b/t 9th Ave. and Washington St.</cross>
+<phone>(212) 366-1640 </phone>
+<site>http://www.soncubanonyc.com/</site>
+<type>Cuban</type>
+<neighborhood>Greenwich Village</neighborhood>
+<notes>None</notes>
+<visited>no</visited>
+</marker>
+<marker>
+<label>Sugiyama</label>
+<lat>40.76511</lat>
+<lng>-73.982771</lng>
+<address>251 W. 55th St.</address>
+<cross>b/t Broadway and 8th Ave.</cross>
+<phone>(212) 956-0670</phone>
+<site>http://sugiyama-nyc.com/</site>
+<type>Japanese</type>
+<neighborhood>Midtown - West 50s</neighborhood>
+<notes>Too much adventure for my tastes. The menu was challenging but it's all the rave.</notes>
+<visited>yes</visited>
+</marker>
+<marker>
+<label>Sushi Samba</label>
+<lat>40.738015</lat>
+<lng>-73.987685</lng>
+<address>245 Park Ave. S.</address>
+<cross>at 20th St.</cross>
+<phone>(212) 475-9377</phone>
+<site>http://sushisamba.com/top.html</site>
+<type>Sushi</type>
+<neighborhood>Gramercy Park</neighborhood>
+<notes>I hear the one in Chicago is better but this one did not dissapoint.</notes>
+<visited>yes</visited>
+</marker>
+<marker>
+<label>Sushi Yasuda</label>
+<lat>40.751184</lat>
+<lng>-73.973841</lng>
+<address>204 E. 43rd St.</address>
+<cross>b/t 2nd and 3rd Aves.</cross>
+<phone>(212) 972-1001</phone>
+<site>http://sushiyasuda.com/</site>
+<type>Sushi</type>
+<neighborhood>Midtown - East 40s</neighborhood>
+<notes>None</notes>
+<visited>no</visited>
+</marker>
+<marker>
+<label>Sushiden</label>
+<lat>40.75971</lat>
+<lng>-73.981619</lng>
+<address>123 W. 49th St.</address>
+<cross>b/t 6th and 7th Aves.</cross>
+<phone>(212) 398-2800</phone>
+<site>http://www.sushiden.com/</site>
+<type>Sushi</type>
+<neighborhood>Midtown - West 40s</neighborhood>
+<notes>None</notes>
+<visited>no</visited>
+</marker>
+<marker>
+<label>Tao</label>
+<lat>40.762722</lat>
+<lng>-73.971647</lng>
+<address>42 E. 58th St.</address>
+<cross>b/t Park and Madison Aves.</cross>
+<phone>(212) 888-2288</phone>
+<site>http://taorestaurant.com/</site>
+<type>Asian</type>
+<neighborhood>Midtown - East 50s</neighborhood>
+<notes>None</notes>
+<visited>no</visited>
+</marker>
+<marker>
+<label>Tenement</label>
+<lat>40.721036</lat>
+<lng>-73.988084</lng>
+<address>157 Ludlow</address>
+<cross>b/t Rivington and Stanton Sts.</cross>
+<phone>(212) 598-2130</phone>
+<site>http://www.tenementlounge.com/</site>
+<type>Bar</type>
+<neighborhood>Lower East Side</neighborhood>
+<notes>Dark and inviting all at once.  Avoid the upper back room unless you want to sweat. Food was mediocre but palatable.</notes>
+<visited>yes</visited>
+</marker>
+<marker>
+<label>Thalia</label>
+<lat>40.762092</lat>
+<lng>-73.986058</lng>
+<address>828 8th Ave.</address>
+<cross>at 50th St.</cross>
+<phone>(212) 399-4444</phone>
+<site>http://restaurantthalia.com/</site>
+<type>American Nouveau</type>
+<neighborhood>Midtown - West 50s</neighborhood>
+<notes>None</notes>
+<visited>no</visited>
+</marker>
+<marker>
+<label>Three of Cups</label>
+<lat>40.726454</lat>
+<lng>-73.986576</lng>
+<address>83 First Ave.</address>
+<cross>at 5th St.</cross>
+<phone>(212) 388-0059</phone>
+<site>http://threeofcupsnyc.com/</site>
+<type>Italian</type>
+<neighborhood>East Village</neighborhood>
+<notes>Recommended by East Village stalwart Ray Sarola.</notes>
+<visited>no</visited>
+</marker>
+<marker>
+<label>Tomoe Sushi</label>
+<lat>40.727583</lat>
+<lng>-74.000155</lng>
+<address>172 Thompson St.</address>
+<cross>b/t Bleecker and Houston Sts.</cross>
+<phone>(212) 777-9346</phone>
+<site>http://www.newyorkmetro.com/listings/restaurant/tomoe-sushi/index.html</site>
+<type>Sushi</type>
+<neighborhood>Soho</neighborhood>
+<notes>None</notes>
+<visited>no</visited>
+</marker>
+<marker>
+<label>Uncle Nick's</label>
+<lat>40.763806</lat>
+<lng>-73.988959</lng>
+<address>747 9th Ave.</address>
+<cross>b/t 50th and 51st Sts.</cross>
+<phone>(212) 245-7992</phone>
+<site>http://www.newyorkmetro.com/listings/restaurant/uncle-nicks/index.html</site>
+<type>Greek</type>
+<neighborhood>Midtown - West 50s</neighborhood>
+<notes>None</notes>
+<visited>no</visited>
+</marker>
+<marker>
+<label>Union Square Cafe</label>
+<lat>40.737218</lat>
+<lng>-73.99213</lng>
+<address>21 E. 16th St.</address>
+<cross>b/t Union Square West and 5th Ave.</cross>
+<phone>(212) 243-4020</phone>
+<site>http://www.unionsquarecafe.com/</site>
+<type>American Nouveau</type>
+<neighborhood>Union Square</neighborhood>
+<notes>None</notes>
+<visited>no</visited>
+</marker>
+<marker>
+<label>Virgil's BBQ</label>
+<lat>40.756622</lat>
+<lng>-73.984675</lng>
+<address>152 W. 44th St.</address>
+<cross>b/t 6th and 7th Aves.</cross>
+<phone>(212) 921-9494</phone>
+<site>http://www.virgilsbbq.com/home.htm</site>
+<type>BBQ</type>
+<neighborhood>Midtown - West 40s</neighborhood>
+<notes>BBQ in NYC - who knew?</notes>
+<visited>yes</visited>
+</marker>
+<marker>
+<label>Wolfgang's</label>
+<lat>40.746874</lat>
+<lng>-73.981802</lng>
+<address>4 Park Ave.</address>
+<cross>at 33rd St.</cross>
+<phone>(212) 889-3369</phone>
+<site>http://www.wolfgangssteakhouse.com/</site>
+<type>Steakhouse</type>
+<neighborhood>Murray Hill</neighborhood>
+<notes>European in its appearance and very loud. Porterhouse was less than perfect.</notes>
+<visited>yes</visited>
+</marker>
+<marker>
+<label>Yama</label>
+<lat>40.729967</lat>
+<lng>-74.003203</lng>
+<address>38-40 Carmine St.</address>
+<cross>b/t Bedford and Bleecker Sts.</cross>
+<phone>(212) 989-9330</phone>
+<site>http://www.yamarestaurant.com/</site>
+<type>Sushi</type>
+<neighborhood>Greenwich Village</neighborhood>
+<notes>None</notes>
+<visited>no</visited>
+</marker>
+<marker>
+<label>Zarela</label>
+<lat>40.755272</lat>
+<lng>-73.968455</lng>
+<address>953 2nd Ave.</address>
+<cross>b/t 50th and 51st Sts.</cross>
+<phone>(212) 644-6740</phone>
+<site>http://www.zarela.com/</site>
+<type>Mexican</type>
+<neighborhood>Midtown - East 50s</neighborhood>
+<notes>None</notes>
+<visited>no</visited>
+</marker>
+<marker>
+<label>Zocalo</label>
+<lat>40.776412</lat>
+<lng>-73.956743</lng>
+<address>174 E. 82nd St.</address>
+<cross>b/t 3rd and Lexington Aves.</cross>
+<phone>(212) 717-7772</phone>
+<site>http://www.zocalonyc.com/east/index.php</site>
+<type>Mexican</type>
+<neighborhood>Upper East Side</neighborhood>
+<notes>None</notes>
+<visited>no</visited>
+</marker>
+<marker>
+<label>Zona Rosa</label>
+<lat>40.762711</lat>
+<lng>-73.975891</lng>
+<address>40 W. 56th St.</address>
+<cross>b/t 5th and 6th Aves.</cross>
+<phone>(212) 247-2800</phone>
+<site>http://www.zonarosarestaurant.com/zonarosa/html/index2.htm</site>
+<type>Mexican</type>
+<neighborhood>Midtown - West 50s</neighborhood>
+<notes>None</notes>
+<visited>no</visited>
+</marker>
+</markers>

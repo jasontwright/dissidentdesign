@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.google.com/schemas/sitemap/0.84">
+  <url>
+  	<loc>http://www.dissidentdesign.com/maps/nyc.html</loc>
+  	<lastmod>2006-05-25</lastmod>
+  	<changefreq>daily</changefreq>
+  	<priority>0.5</priority>
+  </url>
+	<url>
+  	<loc>http://www.dissidentdesign.com/maps/about.html</loc>
+  	<lastmod>2006-05-25</lastmod>
+  	<changefreq>daily</changefreq>
+  	<priority>0.5</priority>
+  </url>
+	<url>
+  	<loc>http://www.dissidentdesign.com/maps/contact.html</loc>
+  	<lastmod>2006-05-25</lastmod>
+  	<changefreq>daily</changefreq>
+  	<priority>0.5</priority>
+  </url>
+	<url>
+  	<loc>http://www.dissidentdesign.com/maps/issues.html</loc>
+  	<lastmod>2006-05-25</lastmod>
+  	<changefreq>daily</changefreq>
+  	<priority>0.5</priority>
+  </url>
+	<url>
+  	<loc>http://www.dissidentdesign.com/maps/submit.html</loc>
+  	<lastmod>2006-05-25</lastmod>
+  	<changefreq>daily</changefreq>
+  	<priority>0.5</priority>
+  </url>
+</urlset>

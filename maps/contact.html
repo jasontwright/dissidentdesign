@@ -1,0 +1,63 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN">
+
+<html>
+<head>
+<title>NYC Restaurants - Contact</title>
+
+<script src="prototype-1.4.0.js" type="text/javascript"></script>
+
+<script language="JavaScript" type="text/javascript">
+<!--
+function send()
+	{
+	var params = Form.serialize($('contactForm'));
+	new Ajax.Updater('updateDiv', 'contact.php', {asynchronous:true, parameters:params});
+	}
+//-->
+</script>
+</head>
+<body>
+
+<div style="margin:0 auto; width:45em; text-align:left;">
+
+  <div id="nav" style="background-color:#ffeac0; border-top:1px solid #ff9900; padding: 1.5pt 2pt 2pt 2pt; margin-bottom:5px; -moz-border-radius:5px;">
+  		<div style="float:right; font-size:small; text-align:right; padding-right:3px;"><a href="nyc.html">Map</a>&nbsp;&nbsp;&nbsp;&nbsp;<a href="about.html">About</a>&nbsp;&nbsp;&nbsp;&nbsp;<b>Contact</b>&nbsp;&nbsp;&nbsp;&nbsp;<a href="issues.html">Known Issues</a></div>
+  		<div style="font-size:medium; font-weight:bold;">NYC Restaurants</div>
+  </div>
+	
+	<p style="color:#666666; font-weight:bold;">Submit Contact Information</p>
+
+<fieldset style="border:1px solid #666; padding:5px; -moz-border-radius:5px;">
+	<legend style="border:1px solid #666; padding:3px; font-size:12px;">Contact Form</legend>
+	<div id="updateDiv"></div>
+  <div>
+  	<form id="contactForm" name="contactForm">
+  		Name:<br>
+  		<input name="name" id="name" type="text" autocomplete="off"><br>
+  		<script>document.getElementById('name').focus()</script>
+			Email:<br>
+			<input name="email" id="email" type="text" autocomplete="off"><br>
+  		Message:<br>
+  		<textarea name="message" id="message" cols="30" rows="5" autocomplete="off"></textarea><br><br>
+			Please enter the following 5-digit number into the box below to verify the form.<br>
+			<img src="randomImage.php"><br>
+			<input name="txtNumber" type="text" id="txtNumber" value="" autocomplete="off"><br><br>
+  		<input name="sendbutton" id="sendbutton" type="button" value="Send" onClick="send();document.contactForm.name.disabled=true;document.contactForm.email.disabled=true;document.contactForm.message.disabled=true;document.contactForm.sendbutton.disabled=true;document.contactForm.txtNumber.disabled=true;">
+  	</form>
+  </div>	
+</fieldset>
+	
+  <div id="footer" style="text-align:center; color:#666; font-size:12px; margin:5px 0px; padding:2px;">&copy; 2006 Dissident Design</div>
+
+</div>
+
+<!--Google Analytics Code -->
+<script src="http://www.google-analytics.com/urchin.js" type="text/javascript">
+</script>
+<script type="text/javascript">
+_uacct = "UA-186777-4";
+urchinTracker();
+</script>
+
+</body>
+</html>

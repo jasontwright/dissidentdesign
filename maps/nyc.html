@@ -1,0 +1,185 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+  <head>
+    <title>NYC Restaurants</title>
+
+    <script src="http://maps.google.com/maps?file=api&amp;v=2&amp;key=ABQIAAAAiek4AT8HoKTBeKQLLzV9sRT3zWXBTLXiNOL5gNIDxVqWseYmWRRGh-Es88CreHCiU7q-m4d_9pzVCQ" type="text/javascript"></script>
+		<script src="sorttable.js"></script>
+  	<style type="text/css">
+<!--
+/* Sortable tables */
+table.sortable a.sortheader {
+    background-color:#eee;
+    color:#666666;
+    font-weight: bold;
+    text-decoration: none;
+    display: block;
+}
+table.sortable span.sortarrow {
+    color: black;
+    text-decoration: none;
+}
+-->
+</style>
+
+	</head>
+
+  <body onunload="GUnload();">
+
+	<noscript><b>JavaScript must be enabled in order for you to use Google Maps.</b>
+      However, it seems JavaScript is either disabled or not supported by your browser.
+      To view Google Maps, enable JavaScript by changing your browser options, and then
+      try again.
+  </noscript>
+
+	<div id="nav" style="background-color:#ffeac0; border-top:1px solid #ff9900; padding: 1.5pt 2pt 2pt 2pt; margin-bottom:5px; -moz-border-radius:5px;">
+		<div style="float:right; font-size:small; text-align:right; padding-right:3px;"><b>Map</b>&nbsp;&nbsp;&nbsp;&nbsp;<a href="about.html">About</a>&nbsp;&nbsp;&nbsp;&nbsp;<a href="contact.html">Contact</a>&nbsp;&nbsp;&nbsp;&nbsp;<a href="issues.html">Known Issues</a></div>
+		<div style="font-size:medium; font-weight:bold;">NYC Restaurants (Beta)</div>
+	</div>
+
+	<div id="map" style="float:left; height:490px; width:60%; margin:0px 5px 5px 0px; border: 1px solid #666666;"></div>
+
+	<div id="sidebar" style="float:right; height:486px; width:38%; overflow:auto; border: 1px solid #666666; padding: 2px; margin-bottom:5px; font-size: 12px;"></div>
+
+	<div id="footer" style="clear:both; color:#666; font-size:12px; margin:5px 0px; padding:2px;">
+		<span style="float:right;">
+			<a href="http://www.spreadfirefox.com/?q=affiliates&id=0&t=85"><img border="0" alt="Get Firefox!" title="Get Firefox!" src="http://sfx-images.mozilla.org/affiliates/Buttons/80x15/firefox_80x15.png"/></a>
+		</span>
+		Powered by <a href="http://maps.google.com">Google Maps</a> and the <a href="http://www.google.com/apis/maps/">API</a> | Engineered by <a href="http://www.dissidentdesign.com">Dissident Design</a><br>
+		Click <a href="submit.html">here</a> to submit restaurants you would like included on the list.
+	</div>
+
+<!-- Begin: adBrite, Generated: 2012-02-23 10:40:34  -->
+<script type="text/javascript">
+var AdBrite_Title_Color = '0000FF';
+var AdBrite_Text_Color = '000000';
+var AdBrite_Background_Color = 'FFFFFF';
+var AdBrite_Border_Color = 'CCCCCC';
+var AdBrite_URL_Color = '008000';
+try{var AdBrite_Iframe=window.top!=window.self?2:1;var AdBrite_Referrer=document.referrer==''?document.location:document.referrer;AdBrite_Referrer=encodeURIComponent(AdBrite_Referrer);}catch(e){var AdBrite_Iframe='';var AdBrite_Referrer='';}
+</script>
+<span style="white-space:nowrap;"><script type="text/javascript">document.write(String.fromCharCode(60,83,67,82,73,80,84));document.write(' src="http://ads.adbrite.com/mb/text_group.php?sid=2105572&zs=3732385f3930&ifr='+AdBrite_Iframe+'&ref='+AdBrite_Referrer+'" type="text/javascript">');document.write(String.fromCharCode(60,47,83,67,82,73,80,84,62));</script>
+<a target="_top" href="http://www.adbrite.com/mb/commerce/purchase_form.php?opid=2105572&afsid=1"><img src="http://files.adbrite.com/mb/images/adbrite-your-ad-here-leaderboard.gif" style="background-color:#CCCCCC;border:none;padding:0;margin:0;" alt="Your Ad Here" width="14" height="90" border="0" /></a></span>
+<!-- End: adBrite -->
+
+
+	<script language="JavaScript" type="text/javascript">
+	//<![CDATA[
+
+		// Create the map
+    var map = new GMap2(document.getElementById("map"));
+    map.addControl(new GLargeMapControl());
+    map.addControl(new GMapTypeControl());
+    map.setCenter(new GLatLng(40.74166457713348, -73.98948669433594), 13);
+		// map.addControl(new GOverviewMapControl());
+
+		// Global variables
+		var label1 = "Info";
+		var label2 = "Notes";
+		var sidebar_html = "";
+    var gmarkers = [];
+		var label1s = [];
+		var label2s = [];
+		var html1s = [];
+		var html2s = [];
+    var i = 0;
+
+		// Create the "tiny" marker base icon
+		var baseIcon = new GIcon();
+		baseIcon.image = "http://labs.google.com/ridefinder/images/mm_20_red.png";
+		baseIcon.shadow = "http://labs.google.com/ridefinder/images/mm_20_shadow.png";
+    baseIcon.iconSize = new GSize(12, 20);
+    baseIcon.shadowSize = new GSize(22, 20);
+    baseIcon.iconAnchor = new GPoint(6, 20);
+    baseIcon.infoWindowAnchor = new GPoint(5, 1);
+
+		// Download the data from the xml and create the html for the infowindow
+		GDownloadUrl("data1.xml", function(data, responseCode) {
+  	var xml = GXml.parse(data);
+
+  	var markers = xml.documentElement.getElementsByTagName("marker");
+  	for (var i = 0; i < markers.length; i++) {
+    var point = new GLatLng(parseFloat(markers[i].getElementsByTagName("lat")[0].firstChild.nodeValue),
+       	parseFloat(markers[i].getElementsByTagName("lng")[0].firstChild.nodeValue));
+
+		// Variables for html from xml
+		var label =	markers[i].getElementsByTagName("label")[0].firstChild.nodeValue;
+		var address = markers[i].getElementsByTagName("address")[0].firstChild.nodeValue;
+		var cross = markers[i].getElementsByTagName("cross")[0].firstChild.nodeValue;
+		var phone = markers[i].getElementsByTagName("phone")[0].firstChild.nodeValue;
+		var site = markers[i].getElementsByTagName("site")[0].firstChild.nodeValue;
+		var type = markers[i].getElementsByTagName("type")[0].firstChild.nodeValue;
+		var neighborhood = markers[i].getElementsByTagName("neighborhood")[0].firstChild.nodeValue;
+		var notes = markers[i].getElementsByTagName("notes")[0].firstChild.nodeValue;
+		var visited = markers[i].getElementsByTagName("visited")[0].firstChild.nodeValue;
+
+		// Setup notes tab to take information from users if I do not have any
+		var email = [];
+		if (notes == "None") {
+			email = 'I do not have any information on this restaurant yet. Please click <a href="submit.html">here</a> to provide information on ' + label + '.';
+		} else {
+			email = notes;
+			email += '<br><br>Click <a href="submit.html">here</a> to submit additional information on ' + label + '.';
+		};
+
+		// HTML for the first tab
+		var html1 = '<div style="width:200px; margin:0px; padding:0px; font-size:12px;">';
+		html1 += '<h3 style="margin:0px; padding:0px;">' + label + '</h3>';
+		html1 += address + '<br>';
+		html1 += cross + '<br>';
+		html1 += phone + '<br>';
+		html1 += 'Web Site: <a href="' + site + '">Click Here</a><br>';
+		html1 += '<i>Cuisine: ' + type + '</i><br>';
+		html1 += 'Neighborhood: ' + neighborhood + '<br>';
+		html1 += '</div>';
+
+		// HTML for the second tab
+		var html2 = '<div style=" width:200px; margin:0px; padding:0px; font-size:12px;">';
+		html2 += email;
+		html2 += '</div>';
+
+		// Create the markers
+		map.addOverlay(new createTabbedMarker(point,html1,html2,label,label1,label2,type,neighborhood));
+}
+
+		// Write the html to the sidebar
+		document.getElementById("sidebar").innerHTML = '<table class="sortable" id="t1" cellspacing="0"><caption><em>Click column headings to sort</em></caption></tr><tr><th>&nbsp;</th><th>Name</th><th>Cuisine</th><th>Neighborhood</th></tr>' + sidebar_html + '</table>';
+	});
+
+		// A function to create a tabbed marker and setup the event window
+		function createTabbedMarker(point,html1,html2,label,label1,label2,type,neighborhood) {
+			var marker = new GMarker(point, baseIcon);
+			GEvent.addListener(marker, "click", function () {
+				marker.openInfoWindowTabsHtml([new GInfoWindowTab(label1,html1), new GInfoWindowTab(label2,html2)]);
+				});
+				gmarkers[i] = marker;
+				label1s[i] = label1;
+				label2s[i] = label2;
+				html1s[i] = html1;
+				html2s[i] = html2;
+				sidebar_html += '<tr syle="border-top:1px solid #666;"><td><a href="javascript:myclick(' + i + ')" style="background:#fff;"><img src="http://labs.google.com/ridefinder/images/mm_20_red.png" style="border:none; padding:0px;"></a></td>';
+				sidebar_html += '<td style="width:125px;"><a href="javascript:myclick(' + i + ')" style="text-decoration:none;">' + label + '</a></td>';
+				sidebar_html += '<td>' + type + '</td>';
+				sidebar_html += '<td>' + neighborhood + '</td></tr>';
+        i++;
+				return marker;
+			}
+
+			// a function to open the tabbed info window when clicking the sidebar links
+			function myclick(i) {
+        gmarkers[i].openInfoWindowTabsHtml([new GInfoWindowTab(label1s[i],html1s[i]), new GInfoWindowTab(label2s[i],html2s[i])]);
+      }
+
+	//]]>
+	</script>
+
+<!--Google Analytics Code -->
+<script src="http://www.google-analytics.com/urchin.js" type="text/javascript">
+</script>
+<script type="text/javascript">
+_uacct = "UA-186777-4";
+urchinTracker();
+</script>
+
+	</body>
+</html>
